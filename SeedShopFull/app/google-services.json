@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "915703364080",
+    "firebase_url": "https://seedmart-6f8f9-default-rtdb.firebaseio.com",
+    "project_id": "seedmart-6f8f9",
+    "storage_bucket": "seedmart-6f8f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915703364080:android:f2be2d54b4791d201fc535",
+        "android_client_info": {
+          "package_name": "com.example.seedmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRn6EeggInzKrxfFJZTyj2PqTtrgDhQ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915703364080:android:2b9be4efa848026e1fc535",
+        "android_client_info": {
+          "package_name": "com.example.seedshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRn6EeggInzKrxfFJZTyj2PqTtrgDhQ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
